@@ -1,0 +1,13 @@
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\bin\Debug\netcoreapp3.1\MembuatMethod.exe
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\bin\Debug\netcoreapp3.1\MembuatMethod.deps.json
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\bin\Debug\netcoreapp3.1\MembuatMethod.runtimeconfig.json
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\bin\Debug\netcoreapp3.1\MembuatMethod.runtimeconfig.dev.json
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\bin\Debug\netcoreapp3.1\MembuatMethod.dll
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\bin\Debug\netcoreapp3.1\MembuatMethod.pdb
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\obj\Debug\netcoreapp3.1\MembuatMethod.csprojAssemblyReference.cache
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\obj\Debug\netcoreapp3.1\MembuatMethod.AssemblyInfoInputs.cache
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\obj\Debug\netcoreapp3.1\MembuatMethod.AssemblyInfo.cs
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\obj\Debug\netcoreapp3.1\MembuatMethod.csproj.CoreCompileInputs.cache
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\obj\Debug\netcoreapp3.1\MembuatMethod.dll
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\obj\Debug\netcoreapp3.1\MembuatMethod.pdb
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\5\MembuatMethod\MembuatMethod\obj\Debug\netcoreapp3.1\MembuatMethod.genruntimeconfig.cache
